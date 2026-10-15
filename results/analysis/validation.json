@@ -1,0 +1,15 @@
+{
+  "runs": 36,
+  "completed": 33,
+  "timeouts": 3,
+  "saved_samples": 168,
+  "local_inputs_hash_verified": [
+    64,
+    128,
+    256,
+    512
+  ],
+  "checks": "Protocol, row counts, timing arithmetic, medians/IQR, shared hashes and checksums validated.",
+  "aggregation": "Median of three independent process medians; whiskers min/max of these medians, not a confidence interval.",
+  "matplotlib_version": "3.10.8"
+}
