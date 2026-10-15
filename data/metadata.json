@@ -1,0 +1,44 @@
+{
+  "generator": "Python random.Random (Mersenne Twister)",
+  "base_seed": 42,
+  "seed_rule": "base_seed + n; generate A first, then B, row by row",
+  "sampling": "randint, inclusive bounds",
+  "value_range": [
+    -5,
+    5
+  ],
+  "numeric_type": "float64",
+  "input_format": "Text: n on first line, then n rows of A and n rows of B",
+  "datasets": [
+    {
+      "file": "input_n16.txt",
+      "n": 16,
+      "seed": 58
+    },
+    {
+      "file": "input_n32.txt",
+      "n": 32,
+      "seed": 74
+    },
+    {
+      "file": "input_n64.txt",
+      "n": 64,
+      "seed": 106
+    },
+    {
+      "file": "input_n128.txt",
+      "n": 128,
+      "seed": 170
+    },
+    {
+      "file": "input_n256.txt",
+      "n": 256,
+      "seed": 298
+    },
+    {
+      "file": "input_n512.txt",
+      "n": 512,
+      "seed": 554
+    }
+  ]
+}

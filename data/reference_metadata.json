@@ -1,0 +1,19 @@
+{
+  "numpy_version": "2.5.4",
+  "numeric_type": "float64",
+  "purpose": "Correctness validation only; not a benchmark method",
+  "cases": [
+    {
+      "name": "random16",
+      "source_input": "input_n16.txt",
+      "n": 16,
+      "reference": "numpy.matmul"
+    },
+    {
+      "name": "random32",
+      "source_input": "input_n32.txt",
+      "n": 32,
+      "reference": "numpy.matmul"
+    }
+  ]
+}
