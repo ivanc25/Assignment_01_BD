@@ -1,0 +1,6 @@
+phase,method,n,numeric_type,loop_order,compute_threads,warmups,repetition,batch,total_kernel_ns,time_per_multiply_ns,checksum
+final,c,512,float64,ijk,1,3,1,1,255762400.0,255762400.0,-62615.0
+final,c,512,float64,ijk,1,3,2,1,213306800.0,213306800.0,-62615.0
+final,c,512,float64,ijk,1,3,3,1,234864600.0,234864600.0,-62615.0
+final,c,512,float64,ijk,1,3,4,1,241840200.0,241840200.0,-62615.0
+final,c,512,float64,ijk,1,3,5,1,231474700.0,231474700.0,-62615.0
