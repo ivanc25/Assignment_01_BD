@@ -81,7 +81,3 @@ python scripts/analyze_results.py
 ```
 
 Do not mix new runs with the original final dataset: analysis expects exactly 36 processes. Earlier pilot and validation records are not included in final analysis.
-
-## AI assistance
-
-OpenAI ChatGPT supported planning, code development and debugging, analysis scripts, and report drafting and language revision. Measurements were produced locally; the author remains responsible for validating and explaining the work.
