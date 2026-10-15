@@ -1,0 +1,6 @@
+phase,method,n,numeric_type,loop_order,compute_threads,warmups,repetition,batch,total_kernel_ns,time_per_multiply_ns,checksum
+final,java,64,float64,ijk,1,100,1,8,3064900.0,383112.5,2612.0
+final,java,64,float64,ijk,1,100,2,8,2933300.0,366662.5,2612.0
+final,java,64,float64,ijk,1,100,3,8,2790200.0,348775.0,2612.0
+final,java,64,float64,ijk,1,100,4,8,2887600.0,360950.0,2612.0
+final,java,64,float64,ijk,1,100,5,8,2802500.0,350312.5,2612.0
