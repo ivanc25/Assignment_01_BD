@@ -1,0 +1,1 @@
+phase,method,n,numeric_type,loop_order,compute_threads,warmups,repetition,batch,total_kernel_ns,time_per_multiply_ns,checksum

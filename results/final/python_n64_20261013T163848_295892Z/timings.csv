@@ -1,0 +1,6 @@
+phase,method,n,numeric_type,loop_order,compute_threads,warmups,repetition,batch,total_kernel_ns,time_per_multiply_ns,checksum
+final,python,64,float64,ijk,1,3,1,8,401597600.0,50199700.0,2612.0
+final,python,64,float64,ijk,1,3,2,8,431865100.0,53983137.5,2612.0
+final,python,64,float64,ijk,1,3,3,8,529711000.0,66213875.0,2612.0
+final,python,64,float64,ijk,1,3,4,8,379068700.0,47383587.5,2612.0
+final,python,64,float64,ijk,1,3,5,8,328104400.0,41013050.0,2612.0
